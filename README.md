@@ -8,3 +8,5 @@ Use Unity 2021.3.2f1 version in order to open the project.
 ### https://cupnooble.itch.io/sprout-lands-ui-pack
 ### https://shubibubi.itch.io/cozy-town
 
+## Project Executable:
+### https://github.com/onlygreb/ShopPrototype/blob/main/ShopPrototypeBuild.rar
